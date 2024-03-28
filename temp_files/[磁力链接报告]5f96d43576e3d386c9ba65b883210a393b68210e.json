@@ -1,0 +1,5422 @@
+{
+    "report_time": 1711375387.378492,
+    "torrent_hash": "5f96d43576e3d386c9ba65b883210a393b68210e",
+    "torrent_name": "grok-1",
+    "magnet_uri": "magnet:?xt=urn:btih:5f96d43576e3d386c9ba65b883210a393b68210e&dn=grok-1",
+    "total_size": 318239939300,
+    "tracker": "",
+    "total_files": 773,
+    "file_list": [
+        {
+            "index": 0,
+            "name": "grok-1/LICENSE",
+            "priority": 1,
+            "size": 11358,
+            "id": 0
+        },
+        {
+            "index": 1,
+            "name": "grok-1/RELEASE",
+            "priority": 1,
+            "size": 1762,
+            "id": 1
+        },
+        {
+            "index": 2,
+            "name": "grok-1/ckpt-0/tensor00000_000",
+            "priority": 1,
+            "size": 3221225637,
+            "id": 2
+        },
+        {
+            "index": 3,
+            "name": "grok-1/ckpt-0/tensor00001_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 3
+        },
+        {
+            "index": 4,
+            "name": "grok-1/ckpt-0/tensor00002_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 4
+        },
+        {
+            "index": 5,
+            "name": "grok-1/ckpt-0/tensor00003_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 5
+        },
+        {
+            "index": 6,
+            "name": "grok-1/ckpt-0/tensor00004_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 6
+        },
+        {
+            "index": 7,
+            "name": "grok-1/ckpt-0/tensor00005_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 7
+        },
+        {
+            "index": 8,
+            "name": "grok-1/ckpt-0/tensor00006_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 8
+        },
+        {
+            "index": 9,
+            "name": "grok-1/ckpt-0/tensor00007_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 9
+        },
+        {
+            "index": 10,
+            "name": "grok-1/ckpt-0/tensor00008_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 10
+        },
+        {
+            "index": 11,
+            "name": "grok-1/ckpt-0/tensor00009_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 11
+        },
+        {
+            "index": 12,
+            "name": "grok-1/ckpt-0/tensor00010_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 12
+        },
+        {
+            "index": 13,
+            "name": "grok-1/ckpt-0/tensor00011_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 13
+        },
+        {
+            "index": 14,
+            "name": "grok-1/ckpt-0/tensor00012_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 14
+        },
+        {
+            "index": 15,
+            "name": "grok-1/ckpt-0/tensor00013_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 15
+        },
+        {
+            "index": 16,
+            "name": "grok-1/ckpt-0/tensor00014_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 16
+        },
+        {
+            "index": 17,
+            "name": "grok-1/ckpt-0/tensor00015_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 17
+        },
+        {
+            "index": 18,
+            "name": "grok-1/ckpt-0/tensor00016_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 18
+        },
+        {
+            "index": 19,
+            "name": "grok-1/ckpt-0/tensor00017_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 19
+        },
+        {
+            "index": 20,
+            "name": "grok-1/ckpt-0/tensor00018_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 20
+        },
+        {
+            "index": 21,
+            "name": "grok-1/ckpt-0/tensor00019_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 21
+        },
+        {
+            "index": 22,
+            "name": "grok-1/ckpt-0/tensor00020_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 22
+        },
+        {
+            "index": 23,
+            "name": "grok-1/ckpt-0/tensor00021_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 23
+        },
+        {
+            "index": 24,
+            "name": "grok-1/ckpt-0/tensor00022_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 24
+        },
+        {
+            "index": 25,
+            "name": "grok-1/ckpt-0/tensor00023_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 25
+        },
+        {
+            "index": 26,
+            "name": "grok-1/ckpt-0/tensor00024_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 26
+        },
+        {
+            "index": 27,
+            "name": "grok-1/ckpt-0/tensor00025_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 27
+        },
+        {
+            "index": 28,
+            "name": "grok-1/ckpt-0/tensor00026_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 28
+        },
+        {
+            "index": 29,
+            "name": "grok-1/ckpt-0/tensor00027_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 29
+        },
+        {
+            "index": 30,
+            "name": "grok-1/ckpt-0/tensor00028_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 30
+        },
+        {
+            "index": 31,
+            "name": "grok-1/ckpt-0/tensor00029_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 31
+        },
+        {
+            "index": 32,
+            "name": "grok-1/ckpt-0/tensor00030_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 32
+        },
+        {
+            "index": 33,
+            "name": "grok-1/ckpt-0/tensor00031_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 33
+        },
+        {
+            "index": 34,
+            "name": "grok-1/ckpt-0/tensor00032_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 34
+        },
+        {
+            "index": 35,
+            "name": "grok-1/ckpt-0/tensor00033_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 35
+        },
+        {
+            "index": 36,
+            "name": "grok-1/ckpt-0/tensor00034_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 36
+        },
+        {
+            "index": 37,
+            "name": "grok-1/ckpt-0/tensor00035_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 37
+        },
+        {
+            "index": 38,
+            "name": "grok-1/ckpt-0/tensor00036_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 38
+        },
+        {
+            "index": 39,
+            "name": "grok-1/ckpt-0/tensor00037_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 39
+        },
+        {
+            "index": 40,
+            "name": "grok-1/ckpt-0/tensor00038_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 40
+        },
+        {
+            "index": 41,
+            "name": "grok-1/ckpt-0/tensor00039_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 41
+        },
+        {
+            "index": 42,
+            "name": "grok-1/ckpt-0/tensor00040_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 42
+        },
+        {
+            "index": 43,
+            "name": "grok-1/ckpt-0/tensor00041_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 43
+        },
+        {
+            "index": 44,
+            "name": "grok-1/ckpt-0/tensor00042_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 44
+        },
+        {
+            "index": 45,
+            "name": "grok-1/ckpt-0/tensor00043_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 45
+        },
+        {
+            "index": 46,
+            "name": "grok-1/ckpt-0/tensor00044_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 46
+        },
+        {
+            "index": 47,
+            "name": "grok-1/ckpt-0/tensor00045_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 47
+        },
+        {
+            "index": 48,
+            "name": "grok-1/ckpt-0/tensor00046_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 48
+        },
+        {
+            "index": 49,
+            "name": "grok-1/ckpt-0/tensor00047_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 49
+        },
+        {
+            "index": 50,
+            "name": "grok-1/ckpt-0/tensor00048_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 50
+        },
+        {
+            "index": 51,
+            "name": "grok-1/ckpt-0/tensor00049_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 51
+        },
+        {
+            "index": 52,
+            "name": "grok-1/ckpt-0/tensor00050_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 52
+        },
+        {
+            "index": 53,
+            "name": "grok-1/ckpt-0/tensor00051_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 53
+        },
+        {
+            "index": 54,
+            "name": "grok-1/ckpt-0/tensor00052_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 54
+        },
+        {
+            "index": 55,
+            "name": "grok-1/ckpt-0/tensor00053_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 55
+        },
+        {
+            "index": 56,
+            "name": "grok-1/ckpt-0/tensor00054_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 56
+        },
+        {
+            "index": 57,
+            "name": "grok-1/ckpt-0/tensor00055_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 57
+        },
+        {
+            "index": 58,
+            "name": "grok-1/ckpt-0/tensor00056_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 58
+        },
+        {
+            "index": 59,
+            "name": "grok-1/ckpt-0/tensor00057_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 59
+        },
+        {
+            "index": 60,
+            "name": "grok-1/ckpt-0/tensor00058_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 60
+        },
+        {
+            "index": 61,
+            "name": "grok-1/ckpt-0/tensor00059_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 61
+        },
+        {
+            "index": 62,
+            "name": "grok-1/ckpt-0/tensor00060_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 62
+        },
+        {
+            "index": 63,
+            "name": "grok-1/ckpt-0/tensor00061_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 63
+        },
+        {
+            "index": 64,
+            "name": "grok-1/ckpt-0/tensor00062_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 64
+        },
+        {
+            "index": 65,
+            "name": "grok-1/ckpt-0/tensor00063_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 65
+        },
+        {
+            "index": 66,
+            "name": "grok-1/ckpt-0/tensor00064_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 66
+        },
+        {
+            "index": 67,
+            "name": "grok-1/ckpt-0/tensor00065_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 67
+        },
+        {
+            "index": 68,
+            "name": "grok-1/ckpt-0/tensor00066_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 68
+        },
+        {
+            "index": 69,
+            "name": "grok-1/ckpt-0/tensor00067_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 69
+        },
+        {
+            "index": 70,
+            "name": "grok-1/ckpt-0/tensor00068_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 70
+        },
+        {
+            "index": 71,
+            "name": "grok-1/ckpt-0/tensor00069_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 71
+        },
+        {
+            "index": 72,
+            "name": "grok-1/ckpt-0/tensor00070_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 72
+        },
+        {
+            "index": 73,
+            "name": "grok-1/ckpt-0/tensor00071_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 73
+        },
+        {
+            "index": 74,
+            "name": "grok-1/ckpt-0/tensor00072_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 74
+        },
+        {
+            "index": 75,
+            "name": "grok-1/ckpt-0/tensor00073_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 75
+        },
+        {
+            "index": 76,
+            "name": "grok-1/ckpt-0/tensor00074_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 76
+        },
+        {
+            "index": 77,
+            "name": "grok-1/ckpt-0/tensor00075_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 77
+        },
+        {
+            "index": 78,
+            "name": "grok-1/ckpt-0/tensor00076_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 78
+        },
+        {
+            "index": 79,
+            "name": "grok-1/ckpt-0/tensor00077_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 79
+        },
+        {
+            "index": 80,
+            "name": "grok-1/ckpt-0/tensor00078_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 80
+        },
+        {
+            "index": 81,
+            "name": "grok-1/ckpt-0/tensor00079_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 81
+        },
+        {
+            "index": 82,
+            "name": "grok-1/ckpt-0/tensor00080_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 82
+        },
+        {
+            "index": 83,
+            "name": "grok-1/ckpt-0/tensor00081_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 83
+        },
+        {
+            "index": 84,
+            "name": "grok-1/ckpt-0/tensor00082_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 84
+        },
+        {
+            "index": 85,
+            "name": "grok-1/ckpt-0/tensor00083_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 85
+        },
+        {
+            "index": 86,
+            "name": "grok-1/ckpt-0/tensor00084_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 86
+        },
+        {
+            "index": 87,
+            "name": "grok-1/ckpt-0/tensor00085_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 87
+        },
+        {
+            "index": 88,
+            "name": "grok-1/ckpt-0/tensor00086_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 88
+        },
+        {
+            "index": 89,
+            "name": "grok-1/ckpt-0/tensor00087_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 89
+        },
+        {
+            "index": 90,
+            "name": "grok-1/ckpt-0/tensor00088_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 90
+        },
+        {
+            "index": 91,
+            "name": "grok-1/ckpt-0/tensor00089_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 91
+        },
+        {
+            "index": 92,
+            "name": "grok-1/ckpt-0/tensor00090_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 92
+        },
+        {
+            "index": 93,
+            "name": "grok-1/ckpt-0/tensor00091_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 93
+        },
+        {
+            "index": 94,
+            "name": "grok-1/ckpt-0/tensor00092_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 94
+        },
+        {
+            "index": 95,
+            "name": "grok-1/ckpt-0/tensor00093_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 95
+        },
+        {
+            "index": 96,
+            "name": "grok-1/ckpt-0/tensor00094_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 96
+        },
+        {
+            "index": 97,
+            "name": "grok-1/ckpt-0/tensor00095_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 97
+        },
+        {
+            "index": 98,
+            "name": "grok-1/ckpt-0/tensor00096_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 98
+        },
+        {
+            "index": 99,
+            "name": "grok-1/ckpt-0/tensor00097_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 99
+        },
+        {
+            "index": 100,
+            "name": "grok-1/ckpt-0/tensor00098_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 100
+        },
+        {
+            "index": 101,
+            "name": "grok-1/ckpt-0/tensor00099_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 101
+        },
+        {
+            "index": 102,
+            "name": "grok-1/ckpt-0/tensor00100_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 102
+        },
+        {
+            "index": 103,
+            "name": "grok-1/ckpt-0/tensor00101_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 103
+        },
+        {
+            "index": 104,
+            "name": "grok-1/ckpt-0/tensor00102_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 104
+        },
+        {
+            "index": 105,
+            "name": "grok-1/ckpt-0/tensor00103_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 105
+        },
+        {
+            "index": 106,
+            "name": "grok-1/ckpt-0/tensor00104_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 106
+        },
+        {
+            "index": 107,
+            "name": "grok-1/ckpt-0/tensor00105_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 107
+        },
+        {
+            "index": 108,
+            "name": "grok-1/ckpt-0/tensor00106_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 108
+        },
+        {
+            "index": 109,
+            "name": "grok-1/ckpt-0/tensor00107_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 109
+        },
+        {
+            "index": 110,
+            "name": "grok-1/ckpt-0/tensor00108_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 110
+        },
+        {
+            "index": 111,
+            "name": "grok-1/ckpt-0/tensor00109_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 111
+        },
+        {
+            "index": 112,
+            "name": "grok-1/ckpt-0/tensor00110_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 112
+        },
+        {
+            "index": 113,
+            "name": "grok-1/ckpt-0/tensor00111_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 113
+        },
+        {
+            "index": 114,
+            "name": "grok-1/ckpt-0/tensor00112_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 114
+        },
+        {
+            "index": 115,
+            "name": "grok-1/ckpt-0/tensor00113_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 115
+        },
+        {
+            "index": 116,
+            "name": "grok-1/ckpt-0/tensor00114_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 116
+        },
+        {
+            "index": 117,
+            "name": "grok-1/ckpt-0/tensor00115_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 117
+        },
+        {
+            "index": 118,
+            "name": "grok-1/ckpt-0/tensor00116_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 118
+        },
+        {
+            "index": 119,
+            "name": "grok-1/ckpt-0/tensor00117_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 119
+        },
+        {
+            "index": 120,
+            "name": "grok-1/ckpt-0/tensor00118_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 120
+        },
+        {
+            "index": 121,
+            "name": "grok-1/ckpt-0/tensor00119_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 121
+        },
+        {
+            "index": 122,
+            "name": "grok-1/ckpt-0/tensor00120_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 122
+        },
+        {
+            "index": 123,
+            "name": "grok-1/ckpt-0/tensor00121_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 123
+        },
+        {
+            "index": 124,
+            "name": "grok-1/ckpt-0/tensor00122_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 124
+        },
+        {
+            "index": 125,
+            "name": "grok-1/ckpt-0/tensor00123_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 125
+        },
+        {
+            "index": 126,
+            "name": "grok-1/ckpt-0/tensor00124_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 126
+        },
+        {
+            "index": 127,
+            "name": "grok-1/ckpt-0/tensor00125_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 127
+        },
+        {
+            "index": 128,
+            "name": "grok-1/ckpt-0/tensor00126_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 128
+        },
+        {
+            "index": 129,
+            "name": "grok-1/ckpt-0/tensor00127_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 129
+        },
+        {
+            "index": 130,
+            "name": "grok-1/ckpt-0/tensor00128_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 130
+        },
+        {
+            "index": 131,
+            "name": "grok-1/ckpt-0/tensor00129_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 131
+        },
+        {
+            "index": 132,
+            "name": "grok-1/ckpt-0/tensor00130_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 132
+        },
+        {
+            "index": 133,
+            "name": "grok-1/ckpt-0/tensor00131_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 133
+        },
+        {
+            "index": 134,
+            "name": "grok-1/ckpt-0/tensor00132_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 134
+        },
+        {
+            "index": 135,
+            "name": "grok-1/ckpt-0/tensor00133_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 135
+        },
+        {
+            "index": 136,
+            "name": "grok-1/ckpt-0/tensor00134_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 136
+        },
+        {
+            "index": 137,
+            "name": "grok-1/ckpt-0/tensor00135_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 137
+        },
+        {
+            "index": 138,
+            "name": "grok-1/ckpt-0/tensor00136_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 138
+        },
+        {
+            "index": 139,
+            "name": "grok-1/ckpt-0/tensor00137_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 139
+        },
+        {
+            "index": 140,
+            "name": "grok-1/ckpt-0/tensor00138_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 140
+        },
+        {
+            "index": 141,
+            "name": "grok-1/ckpt-0/tensor00139_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 141
+        },
+        {
+            "index": 142,
+            "name": "grok-1/ckpt-0/tensor00140_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 142
+        },
+        {
+            "index": 143,
+            "name": "grok-1/ckpt-0/tensor00141_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 143
+        },
+        {
+            "index": 144,
+            "name": "grok-1/ckpt-0/tensor00142_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 144
+        },
+        {
+            "index": 145,
+            "name": "grok-1/ckpt-0/tensor00143_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 145
+        },
+        {
+            "index": 146,
+            "name": "grok-1/ckpt-0/tensor00144_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 146
+        },
+        {
+            "index": 147,
+            "name": "grok-1/ckpt-0/tensor00145_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 147
+        },
+        {
+            "index": 148,
+            "name": "grok-1/ckpt-0/tensor00146_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 148
+        },
+        {
+            "index": 149,
+            "name": "grok-1/ckpt-0/tensor00147_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 149
+        },
+        {
+            "index": 150,
+            "name": "grok-1/ckpt-0/tensor00148_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 150
+        },
+        {
+            "index": 151,
+            "name": "grok-1/ckpt-0/tensor00149_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 151
+        },
+        {
+            "index": 152,
+            "name": "grok-1/ckpt-0/tensor00150_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 152
+        },
+        {
+            "index": 153,
+            "name": "grok-1/ckpt-0/tensor00151_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 153
+        },
+        {
+            "index": 154,
+            "name": "grok-1/ckpt-0/tensor00152_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 154
+        },
+        {
+            "index": 155,
+            "name": "grok-1/ckpt-0/tensor00153_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 155
+        },
+        {
+            "index": 156,
+            "name": "grok-1/ckpt-0/tensor00154_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 156
+        },
+        {
+            "index": 157,
+            "name": "grok-1/ckpt-0/tensor00155_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 157
+        },
+        {
+            "index": 158,
+            "name": "grok-1/ckpt-0/tensor00156_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 158
+        },
+        {
+            "index": 159,
+            "name": "grok-1/ckpt-0/tensor00157_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 159
+        },
+        {
+            "index": 160,
+            "name": "grok-1/ckpt-0/tensor00158_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 160
+        },
+        {
+            "index": 161,
+            "name": "grok-1/ckpt-0/tensor00159_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 161
+        },
+        {
+            "index": 162,
+            "name": "grok-1/ckpt-0/tensor00160_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 162
+        },
+        {
+            "index": 163,
+            "name": "grok-1/ckpt-0/tensor00161_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 163
+        },
+        {
+            "index": 164,
+            "name": "grok-1/ckpt-0/tensor00162_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 164
+        },
+        {
+            "index": 165,
+            "name": "grok-1/ckpt-0/tensor00163_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 165
+        },
+        {
+            "index": 166,
+            "name": "grok-1/ckpt-0/tensor00164_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 166
+        },
+        {
+            "index": 167,
+            "name": "grok-1/ckpt-0/tensor00165_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 167
+        },
+        {
+            "index": 168,
+            "name": "grok-1/ckpt-0/tensor00166_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 168
+        },
+        {
+            "index": 169,
+            "name": "grok-1/ckpt-0/tensor00167_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 169
+        },
+        {
+            "index": 170,
+            "name": "grok-1/ckpt-0/tensor00168_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 170
+        },
+        {
+            "index": 171,
+            "name": "grok-1/ckpt-0/tensor00169_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 171
+        },
+        {
+            "index": 172,
+            "name": "grok-1/ckpt-0/tensor00170_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 172
+        },
+        {
+            "index": 173,
+            "name": "grok-1/ckpt-0/tensor00171_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 173
+        },
+        {
+            "index": 174,
+            "name": "grok-1/ckpt-0/tensor00172_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 174
+        },
+        {
+            "index": 175,
+            "name": "grok-1/ckpt-0/tensor00173_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 175
+        },
+        {
+            "index": 176,
+            "name": "grok-1/ckpt-0/tensor00174_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 176
+        },
+        {
+            "index": 177,
+            "name": "grok-1/ckpt-0/tensor00175_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 177
+        },
+        {
+            "index": 178,
+            "name": "grok-1/ckpt-0/tensor00176_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 178
+        },
+        {
+            "index": 179,
+            "name": "grok-1/ckpt-0/tensor00177_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 179
+        },
+        {
+            "index": 180,
+            "name": "grok-1/ckpt-0/tensor00178_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 180
+        },
+        {
+            "index": 181,
+            "name": "grok-1/ckpt-0/tensor00179_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 181
+        },
+        {
+            "index": 182,
+            "name": "grok-1/ckpt-0/tensor00180_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 182
+        },
+        {
+            "index": 183,
+            "name": "grok-1/ckpt-0/tensor00181_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 183
+        },
+        {
+            "index": 184,
+            "name": "grok-1/ckpt-0/tensor00182_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 184
+        },
+        {
+            "index": 185,
+            "name": "grok-1/ckpt-0/tensor00183_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 185
+        },
+        {
+            "index": 186,
+            "name": "grok-1/ckpt-0/tensor00184_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 186
+        },
+        {
+            "index": 187,
+            "name": "grok-1/ckpt-0/tensor00185_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 187
+        },
+        {
+            "index": 188,
+            "name": "grok-1/ckpt-0/tensor00186_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 188
+        },
+        {
+            "index": 189,
+            "name": "grok-1/ckpt-0/tensor00187_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 189
+        },
+        {
+            "index": 190,
+            "name": "grok-1/ckpt-0/tensor00188_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 190
+        },
+        {
+            "index": 191,
+            "name": "grok-1/ckpt-0/tensor00189_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 191
+        },
+        {
+            "index": 192,
+            "name": "grok-1/ckpt-0/tensor00190_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 192
+        },
+        {
+            "index": 193,
+            "name": "grok-1/ckpt-0/tensor00191_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 193
+        },
+        {
+            "index": 194,
+            "name": "grok-1/ckpt-0/tensor00192_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 194
+        },
+        {
+            "index": 195,
+            "name": "grok-1/ckpt-0/tensor00193_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 195
+        },
+        {
+            "index": 196,
+            "name": "grok-1/ckpt-0/tensor00194_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 196
+        },
+        {
+            "index": 197,
+            "name": "grok-1/ckpt-0/tensor00195_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 197
+        },
+        {
+            "index": 198,
+            "name": "grok-1/ckpt-0/tensor00196_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 198
+        },
+        {
+            "index": 199,
+            "name": "grok-1/ckpt-0/tensor00197_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 199
+        },
+        {
+            "index": 200,
+            "name": "grok-1/ckpt-0/tensor00198_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 200
+        },
+        {
+            "index": 201,
+            "name": "grok-1/ckpt-0/tensor00199_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 201
+        },
+        {
+            "index": 202,
+            "name": "grok-1/ckpt-0/tensor00200_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 202
+        },
+        {
+            "index": 203,
+            "name": "grok-1/ckpt-0/tensor00201_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 203
+        },
+        {
+            "index": 204,
+            "name": "grok-1/ckpt-0/tensor00202_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 204
+        },
+        {
+            "index": 205,
+            "name": "grok-1/ckpt-0/tensor00203_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 205
+        },
+        {
+            "index": 206,
+            "name": "grok-1/ckpt-0/tensor00204_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 206
+        },
+        {
+            "index": 207,
+            "name": "grok-1/ckpt-0/tensor00205_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 207
+        },
+        {
+            "index": 208,
+            "name": "grok-1/ckpt-0/tensor00206_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 208
+        },
+        {
+            "index": 209,
+            "name": "grok-1/ckpt-0/tensor00207_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 209
+        },
+        {
+            "index": 210,
+            "name": "grok-1/ckpt-0/tensor00208_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 210
+        },
+        {
+            "index": 211,
+            "name": "grok-1/ckpt-0/tensor00209_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 211
+        },
+        {
+            "index": 212,
+            "name": "grok-1/ckpt-0/tensor00210_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 212
+        },
+        {
+            "index": 213,
+            "name": "grok-1/ckpt-0/tensor00211_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 213
+        },
+        {
+            "index": 214,
+            "name": "grok-1/ckpt-0/tensor00212_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 214
+        },
+        {
+            "index": 215,
+            "name": "grok-1/ckpt-0/tensor00213_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 215
+        },
+        {
+            "index": 216,
+            "name": "grok-1/ckpt-0/tensor00214_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 216
+        },
+        {
+            "index": 217,
+            "name": "grok-1/ckpt-0/tensor00215_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 217
+        },
+        {
+            "index": 218,
+            "name": "grok-1/ckpt-0/tensor00216_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 218
+        },
+        {
+            "index": 219,
+            "name": "grok-1/ckpt-0/tensor00217_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 219
+        },
+        {
+            "index": 220,
+            "name": "grok-1/ckpt-0/tensor00218_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 220
+        },
+        {
+            "index": 221,
+            "name": "grok-1/ckpt-0/tensor00219_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 221
+        },
+        {
+            "index": 222,
+            "name": "grok-1/ckpt-0/tensor00220_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 222
+        },
+        {
+            "index": 223,
+            "name": "grok-1/ckpt-0/tensor00221_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 223
+        },
+        {
+            "index": 224,
+            "name": "grok-1/ckpt-0/tensor00222_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 224
+        },
+        {
+            "index": 225,
+            "name": "grok-1/ckpt-0/tensor00223_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 225
+        },
+        {
+            "index": 226,
+            "name": "grok-1/ckpt-0/tensor00224_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 226
+        },
+        {
+            "index": 227,
+            "name": "grok-1/ckpt-0/tensor00225_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 227
+        },
+        {
+            "index": 228,
+            "name": "grok-1/ckpt-0/tensor00226_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 228
+        },
+        {
+            "index": 229,
+            "name": "grok-1/ckpt-0/tensor00227_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 229
+        },
+        {
+            "index": 230,
+            "name": "grok-1/ckpt-0/tensor00228_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 230
+        },
+        {
+            "index": 231,
+            "name": "grok-1/ckpt-0/tensor00229_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 231
+        },
+        {
+            "index": 232,
+            "name": "grok-1/ckpt-0/tensor00230_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 232
+        },
+        {
+            "index": 233,
+            "name": "grok-1/ckpt-0/tensor00231_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 233
+        },
+        {
+            "index": 234,
+            "name": "grok-1/ckpt-0/tensor00232_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 234
+        },
+        {
+            "index": 235,
+            "name": "grok-1/ckpt-0/tensor00233_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 235
+        },
+        {
+            "index": 236,
+            "name": "grok-1/ckpt-0/tensor00234_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 236
+        },
+        {
+            "index": 237,
+            "name": "grok-1/ckpt-0/tensor00235_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 237
+        },
+        {
+            "index": 238,
+            "name": "grok-1/ckpt-0/tensor00236_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 238
+        },
+        {
+            "index": 239,
+            "name": "grok-1/ckpt-0/tensor00237_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 239
+        },
+        {
+            "index": 240,
+            "name": "grok-1/ckpt-0/tensor00238_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 240
+        },
+        {
+            "index": 241,
+            "name": "grok-1/ckpt-0/tensor00239_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 241
+        },
+        {
+            "index": 242,
+            "name": "grok-1/ckpt-0/tensor00240_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 242
+        },
+        {
+            "index": 243,
+            "name": "grok-1/ckpt-0/tensor00241_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 243
+        },
+        {
+            "index": 244,
+            "name": "grok-1/ckpt-0/tensor00242_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 244
+        },
+        {
+            "index": 245,
+            "name": "grok-1/ckpt-0/tensor00243_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 245
+        },
+        {
+            "index": 246,
+            "name": "grok-1/ckpt-0/tensor00244_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 246
+        },
+        {
+            "index": 247,
+            "name": "grok-1/ckpt-0/tensor00245_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 247
+        },
+        {
+            "index": 248,
+            "name": "grok-1/ckpt-0/tensor00246_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 248
+        },
+        {
+            "index": 249,
+            "name": "grok-1/ckpt-0/tensor00247_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 249
+        },
+        {
+            "index": 250,
+            "name": "grok-1/ckpt-0/tensor00248_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 250
+        },
+        {
+            "index": 251,
+            "name": "grok-1/ckpt-0/tensor00249_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 251
+        },
+        {
+            "index": 252,
+            "name": "grok-1/ckpt-0/tensor00250_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 252
+        },
+        {
+            "index": 253,
+            "name": "grok-1/ckpt-0/tensor00251_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 253
+        },
+        {
+            "index": 254,
+            "name": "grok-1/ckpt-0/tensor00252_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 254
+        },
+        {
+            "index": 255,
+            "name": "grok-1/ckpt-0/tensor00253_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 255
+        },
+        {
+            "index": 256,
+            "name": "grok-1/ckpt-0/tensor00254_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 256
+        },
+        {
+            "index": 257,
+            "name": "grok-1/ckpt-0/tensor00255_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 257
+        },
+        {
+            "index": 258,
+            "name": "grok-1/ckpt-0/tensor00256_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 258
+        },
+        {
+            "index": 259,
+            "name": "grok-1/ckpt-0/tensor00257_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 259
+        },
+        {
+            "index": 260,
+            "name": "grok-1/ckpt-0/tensor00258_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 260
+        },
+        {
+            "index": 261,
+            "name": "grok-1/ckpt-0/tensor00259_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 261
+        },
+        {
+            "index": 262,
+            "name": "grok-1/ckpt-0/tensor00260_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 262
+        },
+        {
+            "index": 263,
+            "name": "grok-1/ckpt-0/tensor00261_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 263
+        },
+        {
+            "index": 264,
+            "name": "grok-1/ckpt-0/tensor00262_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 264
+        },
+        {
+            "index": 265,
+            "name": "grok-1/ckpt-0/tensor00263_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 265
+        },
+        {
+            "index": 266,
+            "name": "grok-1/ckpt-0/tensor00264_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 266
+        },
+        {
+            "index": 267,
+            "name": "grok-1/ckpt-0/tensor00265_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 267
+        },
+        {
+            "index": 268,
+            "name": "grok-1/ckpt-0/tensor00266_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 268
+        },
+        {
+            "index": 269,
+            "name": "grok-1/ckpt-0/tensor00267_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 269
+        },
+        {
+            "index": 270,
+            "name": "grok-1/ckpt-0/tensor00268_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 270
+        },
+        {
+            "index": 271,
+            "name": "grok-1/ckpt-0/tensor00269_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 271
+        },
+        {
+            "index": 272,
+            "name": "grok-1/ckpt-0/tensor00270_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 272
+        },
+        {
+            "index": 273,
+            "name": "grok-1/ckpt-0/tensor00271_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 273
+        },
+        {
+            "index": 274,
+            "name": "grok-1/ckpt-0/tensor00272_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 274
+        },
+        {
+            "index": 275,
+            "name": "grok-1/ckpt-0/tensor00273_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 275
+        },
+        {
+            "index": 276,
+            "name": "grok-1/ckpt-0/tensor00274_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 276
+        },
+        {
+            "index": 277,
+            "name": "grok-1/ckpt-0/tensor00275_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 277
+        },
+        {
+            "index": 278,
+            "name": "grok-1/ckpt-0/tensor00276_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 278
+        },
+        {
+            "index": 279,
+            "name": "grok-1/ckpt-0/tensor00277_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 279
+        },
+        {
+            "index": 280,
+            "name": "grok-1/ckpt-0/tensor00278_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 280
+        },
+        {
+            "index": 281,
+            "name": "grok-1/ckpt-0/tensor00279_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 281
+        },
+        {
+            "index": 282,
+            "name": "grok-1/ckpt-0/tensor00280_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 282
+        },
+        {
+            "index": 283,
+            "name": "grok-1/ckpt-0/tensor00281_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 283
+        },
+        {
+            "index": 284,
+            "name": "grok-1/ckpt-0/tensor00282_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 284
+        },
+        {
+            "index": 285,
+            "name": "grok-1/ckpt-0/tensor00283_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 285
+        },
+        {
+            "index": 286,
+            "name": "grok-1/ckpt-0/tensor00284_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 286
+        },
+        {
+            "index": 287,
+            "name": "grok-1/ckpt-0/tensor00285_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 287
+        },
+        {
+            "index": 288,
+            "name": "grok-1/ckpt-0/tensor00286_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 288
+        },
+        {
+            "index": 289,
+            "name": "grok-1/ckpt-0/tensor00287_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 289
+        },
+        {
+            "index": 290,
+            "name": "grok-1/ckpt-0/tensor00288_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 290
+        },
+        {
+            "index": 291,
+            "name": "grok-1/ckpt-0/tensor00289_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 291
+        },
+        {
+            "index": 292,
+            "name": "grok-1/ckpt-0/tensor00290_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 292
+        },
+        {
+            "index": 293,
+            "name": "grok-1/ckpt-0/tensor00291_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 293
+        },
+        {
+            "index": 294,
+            "name": "grok-1/ckpt-0/tensor00292_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 294
+        },
+        {
+            "index": 295,
+            "name": "grok-1/ckpt-0/tensor00293_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 295
+        },
+        {
+            "index": 296,
+            "name": "grok-1/ckpt-0/tensor00294_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 296
+        },
+        {
+            "index": 297,
+            "name": "grok-1/ckpt-0/tensor00295_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 297
+        },
+        {
+            "index": 298,
+            "name": "grok-1/ckpt-0/tensor00296_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 298
+        },
+        {
+            "index": 299,
+            "name": "grok-1/ckpt-0/tensor00297_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 299
+        },
+        {
+            "index": 300,
+            "name": "grok-1/ckpt-0/tensor00298_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 300
+        },
+        {
+            "index": 301,
+            "name": "grok-1/ckpt-0/tensor00299_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 301
+        },
+        {
+            "index": 302,
+            "name": "grok-1/ckpt-0/tensor00300_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 302
+        },
+        {
+            "index": 303,
+            "name": "grok-1/ckpt-0/tensor00301_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 303
+        },
+        {
+            "index": 304,
+            "name": "grok-1/ckpt-0/tensor00302_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 304
+        },
+        {
+            "index": 305,
+            "name": "grok-1/ckpt-0/tensor00303_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 305
+        },
+        {
+            "index": 306,
+            "name": "grok-1/ckpt-0/tensor00304_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 306
+        },
+        {
+            "index": 307,
+            "name": "grok-1/ckpt-0/tensor00305_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 307
+        },
+        {
+            "index": 308,
+            "name": "grok-1/ckpt-0/tensor00306_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 308
+        },
+        {
+            "index": 309,
+            "name": "grok-1/ckpt-0/tensor00307_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 309
+        },
+        {
+            "index": 310,
+            "name": "grok-1/ckpt-0/tensor00308_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 310
+        },
+        {
+            "index": 311,
+            "name": "grok-1/ckpt-0/tensor00309_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 311
+        },
+        {
+            "index": 312,
+            "name": "grok-1/ckpt-0/tensor00310_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 312
+        },
+        {
+            "index": 313,
+            "name": "grok-1/ckpt-0/tensor00311_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 313
+        },
+        {
+            "index": 314,
+            "name": "grok-1/ckpt-0/tensor00312_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 314
+        },
+        {
+            "index": 315,
+            "name": "grok-1/ckpt-0/tensor00313_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 315
+        },
+        {
+            "index": 316,
+            "name": "grok-1/ckpt-0/tensor00314_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 316
+        },
+        {
+            "index": 317,
+            "name": "grok-1/ckpt-0/tensor00315_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 317
+        },
+        {
+            "index": 318,
+            "name": "grok-1/ckpt-0/tensor00316_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 318
+        },
+        {
+            "index": 319,
+            "name": "grok-1/ckpt-0/tensor00317_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 319
+        },
+        {
+            "index": 320,
+            "name": "grok-1/ckpt-0/tensor00318_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 320
+        },
+        {
+            "index": 321,
+            "name": "grok-1/ckpt-0/tensor00319_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 321
+        },
+        {
+            "index": 322,
+            "name": "grok-1/ckpt-0/tensor00320_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 322
+        },
+        {
+            "index": 323,
+            "name": "grok-1/ckpt-0/tensor00321_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 323
+        },
+        {
+            "index": 324,
+            "name": "grok-1/ckpt-0/tensor00322_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 324
+        },
+        {
+            "index": 325,
+            "name": "grok-1/ckpt-0/tensor00323_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 325
+        },
+        {
+            "index": 326,
+            "name": "grok-1/ckpt-0/tensor00324_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 326
+        },
+        {
+            "index": 327,
+            "name": "grok-1/ckpt-0/tensor00325_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 327
+        },
+        {
+            "index": 328,
+            "name": "grok-1/ckpt-0/tensor00326_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 328
+        },
+        {
+            "index": 329,
+            "name": "grok-1/ckpt-0/tensor00327_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 329
+        },
+        {
+            "index": 330,
+            "name": "grok-1/ckpt-0/tensor00328_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 330
+        },
+        {
+            "index": 331,
+            "name": "grok-1/ckpt-0/tensor00329_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 331
+        },
+        {
+            "index": 332,
+            "name": "grok-1/ckpt-0/tensor00330_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 332
+        },
+        {
+            "index": 333,
+            "name": "grok-1/ckpt-0/tensor00331_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 333
+        },
+        {
+            "index": 334,
+            "name": "grok-1/ckpt-0/tensor00332_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 334
+        },
+        {
+            "index": 335,
+            "name": "grok-1/ckpt-0/tensor00333_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 335
+        },
+        {
+            "index": 336,
+            "name": "grok-1/ckpt-0/tensor00334_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 336
+        },
+        {
+            "index": 337,
+            "name": "grok-1/ckpt-0/tensor00335_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 337
+        },
+        {
+            "index": 338,
+            "name": "grok-1/ckpt-0/tensor00336_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 338
+        },
+        {
+            "index": 339,
+            "name": "grok-1/ckpt-0/tensor00337_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 339
+        },
+        {
+            "index": 340,
+            "name": "grok-1/ckpt-0/tensor00338_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 340
+        },
+        {
+            "index": 341,
+            "name": "grok-1/ckpt-0/tensor00339_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 341
+        },
+        {
+            "index": 342,
+            "name": "grok-1/ckpt-0/tensor00340_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 342
+        },
+        {
+            "index": 343,
+            "name": "grok-1/ckpt-0/tensor00341_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 343
+        },
+        {
+            "index": 344,
+            "name": "grok-1/ckpt-0/tensor00342_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 344
+        },
+        {
+            "index": 345,
+            "name": "grok-1/ckpt-0/tensor00343_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 345
+        },
+        {
+            "index": 346,
+            "name": "grok-1/ckpt-0/tensor00344_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 346
+        },
+        {
+            "index": 347,
+            "name": "grok-1/ckpt-0/tensor00345_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 347
+        },
+        {
+            "index": 348,
+            "name": "grok-1/ckpt-0/tensor00346_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 348
+        },
+        {
+            "index": 349,
+            "name": "grok-1/ckpt-0/tensor00347_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 349
+        },
+        {
+            "index": 350,
+            "name": "grok-1/ckpt-0/tensor00348_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 350
+        },
+        {
+            "index": 351,
+            "name": "grok-1/ckpt-0/tensor00349_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 351
+        },
+        {
+            "index": 352,
+            "name": "grok-1/ckpt-0/tensor00350_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 352
+        },
+        {
+            "index": 353,
+            "name": "grok-1/ckpt-0/tensor00351_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 353
+        },
+        {
+            "index": 354,
+            "name": "grok-1/ckpt-0/tensor00352_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 354
+        },
+        {
+            "index": 355,
+            "name": "grok-1/ckpt-0/tensor00353_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 355
+        },
+        {
+            "index": 356,
+            "name": "grok-1/ckpt-0/tensor00354_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 356
+        },
+        {
+            "index": 357,
+            "name": "grok-1/ckpt-0/tensor00355_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 357
+        },
+        {
+            "index": 358,
+            "name": "grok-1/ckpt-0/tensor00356_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 358
+        },
+        {
+            "index": 359,
+            "name": "grok-1/ckpt-0/tensor00357_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 359
+        },
+        {
+            "index": 360,
+            "name": "grok-1/ckpt-0/tensor00358_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 360
+        },
+        {
+            "index": 361,
+            "name": "grok-1/ckpt-0/tensor00359_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 361
+        },
+        {
+            "index": 362,
+            "name": "grok-1/ckpt-0/tensor00360_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 362
+        },
+        {
+            "index": 363,
+            "name": "grok-1/ckpt-0/tensor00361_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 363
+        },
+        {
+            "index": 364,
+            "name": "grok-1/ckpt-0/tensor00362_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 364
+        },
+        {
+            "index": 365,
+            "name": "grok-1/ckpt-0/tensor00363_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 365
+        },
+        {
+            "index": 366,
+            "name": "grok-1/ckpt-0/tensor00364_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 366
+        },
+        {
+            "index": 367,
+            "name": "grok-1/ckpt-0/tensor00365_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 367
+        },
+        {
+            "index": 368,
+            "name": "grok-1/ckpt-0/tensor00366_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 368
+        },
+        {
+            "index": 369,
+            "name": "grok-1/ckpt-0/tensor00367_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 369
+        },
+        {
+            "index": 370,
+            "name": "grok-1/ckpt-0/tensor00368_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 370
+        },
+        {
+            "index": 371,
+            "name": "grok-1/ckpt-0/tensor00369_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 371
+        },
+        {
+            "index": 372,
+            "name": "grok-1/ckpt-0/tensor00370_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 372
+        },
+        {
+            "index": 373,
+            "name": "grok-1/ckpt-0/tensor00371_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 373
+        },
+        {
+            "index": 374,
+            "name": "grok-1/ckpt-0/tensor00372_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 374
+        },
+        {
+            "index": 375,
+            "name": "grok-1/ckpt-0/tensor00373_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 375
+        },
+        {
+            "index": 376,
+            "name": "grok-1/ckpt-0/tensor00374_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 376
+        },
+        {
+            "index": 377,
+            "name": "grok-1/ckpt-0/tensor00375_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 377
+        },
+        {
+            "index": 378,
+            "name": "grok-1/ckpt-0/tensor00376_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 378
+        },
+        {
+            "index": 379,
+            "name": "grok-1/ckpt-0/tensor00377_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 379
+        },
+        {
+            "index": 380,
+            "name": "grok-1/ckpt-0/tensor00378_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 380
+        },
+        {
+            "index": 381,
+            "name": "grok-1/ckpt-0/tensor00379_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 381
+        },
+        {
+            "index": 382,
+            "name": "grok-1/ckpt-0/tensor00380_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 382
+        },
+        {
+            "index": 383,
+            "name": "grok-1/ckpt-0/tensor00381_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 383
+        },
+        {
+            "index": 384,
+            "name": "grok-1/ckpt-0/tensor00382_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 384
+        },
+        {
+            "index": 385,
+            "name": "grok-1/ckpt-0/tensor00383_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 385
+        },
+        {
+            "index": 386,
+            "name": "grok-1/ckpt-0/tensor00384_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 386
+        },
+        {
+            "index": 387,
+            "name": "grok-1/ckpt-0/tensor00385_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 387
+        },
+        {
+            "index": 388,
+            "name": "grok-1/ckpt-0/tensor00386_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 388
+        },
+        {
+            "index": 389,
+            "name": "grok-1/ckpt-0/tensor00387_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 389
+        },
+        {
+            "index": 390,
+            "name": "grok-1/ckpt-0/tensor00388_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 390
+        },
+        {
+            "index": 391,
+            "name": "grok-1/ckpt-0/tensor00389_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 391
+        },
+        {
+            "index": 392,
+            "name": "grok-1/ckpt-0/tensor00390_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 392
+        },
+        {
+            "index": 393,
+            "name": "grok-1/ckpt-0/tensor00391_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 393
+        },
+        {
+            "index": 394,
+            "name": "grok-1/ckpt-0/tensor00392_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 394
+        },
+        {
+            "index": 395,
+            "name": "grok-1/ckpt-0/tensor00393_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 395
+        },
+        {
+            "index": 396,
+            "name": "grok-1/ckpt-0/tensor00394_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 396
+        },
+        {
+            "index": 397,
+            "name": "grok-1/ckpt-0/tensor00395_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 397
+        },
+        {
+            "index": 398,
+            "name": "grok-1/ckpt-0/tensor00396_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 398
+        },
+        {
+            "index": 399,
+            "name": "grok-1/ckpt-0/tensor00397_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 399
+        },
+        {
+            "index": 400,
+            "name": "grok-1/ckpt-0/tensor00398_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 400
+        },
+        {
+            "index": 401,
+            "name": "grok-1/ckpt-0/tensor00399_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 401
+        },
+        {
+            "index": 402,
+            "name": "grok-1/ckpt-0/tensor00400_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 402
+        },
+        {
+            "index": 403,
+            "name": "grok-1/ckpt-0/tensor00401_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 403
+        },
+        {
+            "index": 404,
+            "name": "grok-1/ckpt-0/tensor00402_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 404
+        },
+        {
+            "index": 405,
+            "name": "grok-1/ckpt-0/tensor00403_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 405
+        },
+        {
+            "index": 406,
+            "name": "grok-1/ckpt-0/tensor00404_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 406
+        },
+        {
+            "index": 407,
+            "name": "grok-1/ckpt-0/tensor00405_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 407
+        },
+        {
+            "index": 408,
+            "name": "grok-1/ckpt-0/tensor00406_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 408
+        },
+        {
+            "index": 409,
+            "name": "grok-1/ckpt-0/tensor00407_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 409
+        },
+        {
+            "index": 410,
+            "name": "grok-1/ckpt-0/tensor00408_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 410
+        },
+        {
+            "index": 411,
+            "name": "grok-1/ckpt-0/tensor00409_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 411
+        },
+        {
+            "index": 412,
+            "name": "grok-1/ckpt-0/tensor00410_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 412
+        },
+        {
+            "index": 413,
+            "name": "grok-1/ckpt-0/tensor00411_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 413
+        },
+        {
+            "index": 414,
+            "name": "grok-1/ckpt-0/tensor00412_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 414
+        },
+        {
+            "index": 415,
+            "name": "grok-1/ckpt-0/tensor00413_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 415
+        },
+        {
+            "index": 416,
+            "name": "grok-1/ckpt-0/tensor00414_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 416
+        },
+        {
+            "index": 417,
+            "name": "grok-1/ckpt-0/tensor00415_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 417
+        },
+        {
+            "index": 418,
+            "name": "grok-1/ckpt-0/tensor00416_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 418
+        },
+        {
+            "index": 419,
+            "name": "grok-1/ckpt-0/tensor00417_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 419
+        },
+        {
+            "index": 420,
+            "name": "grok-1/ckpt-0/tensor00418_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 420
+        },
+        {
+            "index": 421,
+            "name": "grok-1/ckpt-0/tensor00419_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 421
+        },
+        {
+            "index": 422,
+            "name": "grok-1/ckpt-0/tensor00420_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 422
+        },
+        {
+            "index": 423,
+            "name": "grok-1/ckpt-0/tensor00421_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 423
+        },
+        {
+            "index": 424,
+            "name": "grok-1/ckpt-0/tensor00422_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 424
+        },
+        {
+            "index": 425,
+            "name": "grok-1/ckpt-0/tensor00423_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 425
+        },
+        {
+            "index": 426,
+            "name": "grok-1/ckpt-0/tensor00424_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 426
+        },
+        {
+            "index": 427,
+            "name": "grok-1/ckpt-0/tensor00425_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 427
+        },
+        {
+            "index": 428,
+            "name": "grok-1/ckpt-0/tensor00426_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 428
+        },
+        {
+            "index": 429,
+            "name": "grok-1/ckpt-0/tensor00427_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 429
+        },
+        {
+            "index": 430,
+            "name": "grok-1/ckpt-0/tensor00428_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 430
+        },
+        {
+            "index": 431,
+            "name": "grok-1/ckpt-0/tensor00429_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 431
+        },
+        {
+            "index": 432,
+            "name": "grok-1/ckpt-0/tensor00430_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 432
+        },
+        {
+            "index": 433,
+            "name": "grok-1/ckpt-0/tensor00431_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 433
+        },
+        {
+            "index": 434,
+            "name": "grok-1/ckpt-0/tensor00432_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 434
+        },
+        {
+            "index": 435,
+            "name": "grok-1/ckpt-0/tensor00433_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 435
+        },
+        {
+            "index": 436,
+            "name": "grok-1/ckpt-0/tensor00434_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 436
+        },
+        {
+            "index": 437,
+            "name": "grok-1/ckpt-0/tensor00435_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 437
+        },
+        {
+            "index": 438,
+            "name": "grok-1/ckpt-0/tensor00436_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 438
+        },
+        {
+            "index": 439,
+            "name": "grok-1/ckpt-0/tensor00437_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 439
+        },
+        {
+            "index": 440,
+            "name": "grok-1/ckpt-0/tensor00438_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 440
+        },
+        {
+            "index": 441,
+            "name": "grok-1/ckpt-0/tensor00439_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 441
+        },
+        {
+            "index": 442,
+            "name": "grok-1/ckpt-0/tensor00440_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 442
+        },
+        {
+            "index": 443,
+            "name": "grok-1/ckpt-0/tensor00441_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 443
+        },
+        {
+            "index": 444,
+            "name": "grok-1/ckpt-0/tensor00442_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 444
+        },
+        {
+            "index": 445,
+            "name": "grok-1/ckpt-0/tensor00443_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 445
+        },
+        {
+            "index": 446,
+            "name": "grok-1/ckpt-0/tensor00444_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 446
+        },
+        {
+            "index": 447,
+            "name": "grok-1/ckpt-0/tensor00445_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 447
+        },
+        {
+            "index": 448,
+            "name": "grok-1/ckpt-0/tensor00446_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 448
+        },
+        {
+            "index": 449,
+            "name": "grok-1/ckpt-0/tensor00447_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 449
+        },
+        {
+            "index": 450,
+            "name": "grok-1/ckpt-0/tensor00448_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 450
+        },
+        {
+            "index": 451,
+            "name": "grok-1/ckpt-0/tensor00449_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 451
+        },
+        {
+            "index": 452,
+            "name": "grok-1/ckpt-0/tensor00450_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 452
+        },
+        {
+            "index": 453,
+            "name": "grok-1/ckpt-0/tensor00451_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 453
+        },
+        {
+            "index": 454,
+            "name": "grok-1/ckpt-0/tensor00452_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 454
+        },
+        {
+            "index": 455,
+            "name": "grok-1/ckpt-0/tensor00453_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 455
+        },
+        {
+            "index": 456,
+            "name": "grok-1/ckpt-0/tensor00454_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 456
+        },
+        {
+            "index": 457,
+            "name": "grok-1/ckpt-0/tensor00455_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 457
+        },
+        {
+            "index": 458,
+            "name": "grok-1/ckpt-0/tensor00456_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 458
+        },
+        {
+            "index": 459,
+            "name": "grok-1/ckpt-0/tensor00457_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 459
+        },
+        {
+            "index": 460,
+            "name": "grok-1/ckpt-0/tensor00458_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 460
+        },
+        {
+            "index": 461,
+            "name": "grok-1/ckpt-0/tensor00459_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 461
+        },
+        {
+            "index": 462,
+            "name": "grok-1/ckpt-0/tensor00460_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 462
+        },
+        {
+            "index": 463,
+            "name": "grok-1/ckpt-0/tensor00461_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 463
+        },
+        {
+            "index": 464,
+            "name": "grok-1/ckpt-0/tensor00462_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 464
+        },
+        {
+            "index": 465,
+            "name": "grok-1/ckpt-0/tensor00463_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 465
+        },
+        {
+            "index": 466,
+            "name": "grok-1/ckpt-0/tensor00464_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 466
+        },
+        {
+            "index": 467,
+            "name": "grok-1/ckpt-0/tensor00465_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 467
+        },
+        {
+            "index": 468,
+            "name": "grok-1/ckpt-0/tensor00466_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 468
+        },
+        {
+            "index": 469,
+            "name": "grok-1/ckpt-0/tensor00467_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 469
+        },
+        {
+            "index": 470,
+            "name": "grok-1/ckpt-0/tensor00468_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 470
+        },
+        {
+            "index": 471,
+            "name": "grok-1/ckpt-0/tensor00469_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 471
+        },
+        {
+            "index": 472,
+            "name": "grok-1/ckpt-0/tensor00470_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 472
+        },
+        {
+            "index": 473,
+            "name": "grok-1/ckpt-0/tensor00471_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 473
+        },
+        {
+            "index": 474,
+            "name": "grok-1/ckpt-0/tensor00472_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 474
+        },
+        {
+            "index": 475,
+            "name": "grok-1/ckpt-0/tensor00473_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 475
+        },
+        {
+            "index": 476,
+            "name": "grok-1/ckpt-0/tensor00474_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 476
+        },
+        {
+            "index": 477,
+            "name": "grok-1/ckpt-0/tensor00475_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 477
+        },
+        {
+            "index": 478,
+            "name": "grok-1/ckpt-0/tensor00476_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 478
+        },
+        {
+            "index": 479,
+            "name": "grok-1/ckpt-0/tensor00477_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 479
+        },
+        {
+            "index": 480,
+            "name": "grok-1/ckpt-0/tensor00478_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 480
+        },
+        {
+            "index": 481,
+            "name": "grok-1/ckpt-0/tensor00479_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 481
+        },
+        {
+            "index": 482,
+            "name": "grok-1/ckpt-0/tensor00480_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 482
+        },
+        {
+            "index": 483,
+            "name": "grok-1/ckpt-0/tensor00481_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 483
+        },
+        {
+            "index": 484,
+            "name": "grok-1/ckpt-0/tensor00482_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 484
+        },
+        {
+            "index": 485,
+            "name": "grok-1/ckpt-0/tensor00483_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 485
+        },
+        {
+            "index": 486,
+            "name": "grok-1/ckpt-0/tensor00484_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 486
+        },
+        {
+            "index": 487,
+            "name": "grok-1/ckpt-0/tensor00485_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 487
+        },
+        {
+            "index": 488,
+            "name": "grok-1/ckpt-0/tensor00486_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 488
+        },
+        {
+            "index": 489,
+            "name": "grok-1/ckpt-0/tensor00487_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 489
+        },
+        {
+            "index": 490,
+            "name": "grok-1/ckpt-0/tensor00488_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 490
+        },
+        {
+            "index": 491,
+            "name": "grok-1/ckpt-0/tensor00489_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 491
+        },
+        {
+            "index": 492,
+            "name": "grok-1/ckpt-0/tensor00490_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 492
+        },
+        {
+            "index": 493,
+            "name": "grok-1/ckpt-0/tensor00491_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 493
+        },
+        {
+            "index": 494,
+            "name": "grok-1/ckpt-0/tensor00492_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 494
+        },
+        {
+            "index": 495,
+            "name": "grok-1/ckpt-0/tensor00493_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 495
+        },
+        {
+            "index": 496,
+            "name": "grok-1/ckpt-0/tensor00494_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 496
+        },
+        {
+            "index": 497,
+            "name": "grok-1/ckpt-0/tensor00495_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 497
+        },
+        {
+            "index": 498,
+            "name": "grok-1/ckpt-0/tensor00496_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 498
+        },
+        {
+            "index": 499,
+            "name": "grok-1/ckpt-0/tensor00497_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 499
+        },
+        {
+            "index": 500,
+            "name": "grok-1/ckpt-0/tensor00498_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 500
+        },
+        {
+            "index": 501,
+            "name": "grok-1/ckpt-0/tensor00499_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 501
+        },
+        {
+            "index": 502,
+            "name": "grok-1/ckpt-0/tensor00500_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 502
+        },
+        {
+            "index": 503,
+            "name": "grok-1/ckpt-0/tensor00501_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 503
+        },
+        {
+            "index": 504,
+            "name": "grok-1/ckpt-0/tensor00502_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 504
+        },
+        {
+            "index": 505,
+            "name": "grok-1/ckpt-0/tensor00503_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 505
+        },
+        {
+            "index": 506,
+            "name": "grok-1/ckpt-0/tensor00504_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 506
+        },
+        {
+            "index": 507,
+            "name": "grok-1/ckpt-0/tensor00505_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 507
+        },
+        {
+            "index": 508,
+            "name": "grok-1/ckpt-0/tensor00506_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 508
+        },
+        {
+            "index": 509,
+            "name": "grok-1/ckpt-0/tensor00507_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 509
+        },
+        {
+            "index": 510,
+            "name": "grok-1/ckpt-0/tensor00508_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 510
+        },
+        {
+            "index": 511,
+            "name": "grok-1/ckpt-0/tensor00509_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 511
+        },
+        {
+            "index": 512,
+            "name": "grok-1/ckpt-0/tensor00510_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 512
+        },
+        {
+            "index": 513,
+            "name": "grok-1/ckpt-0/tensor00511_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 513
+        },
+        {
+            "index": 514,
+            "name": "grok-1/ckpt-0/tensor00512_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 514
+        },
+        {
+            "index": 515,
+            "name": "grok-1/ckpt-0/tensor00513_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 515
+        },
+        {
+            "index": 516,
+            "name": "grok-1/ckpt-0/tensor00514_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 516
+        },
+        {
+            "index": 517,
+            "name": "grok-1/ckpt-0/tensor00515_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 517
+        },
+        {
+            "index": 518,
+            "name": "grok-1/ckpt-0/tensor00516_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 518
+        },
+        {
+            "index": 519,
+            "name": "grok-1/ckpt-0/tensor00517_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 519
+        },
+        {
+            "index": 520,
+            "name": "grok-1/ckpt-0/tensor00518_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 520
+        },
+        {
+            "index": 521,
+            "name": "grok-1/ckpt-0/tensor00519_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 521
+        },
+        {
+            "index": 522,
+            "name": "grok-1/ckpt-0/tensor00520_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 522
+        },
+        {
+            "index": 523,
+            "name": "grok-1/ckpt-0/tensor00521_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 523
+        },
+        {
+            "index": 524,
+            "name": "grok-1/ckpt-0/tensor00522_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 524
+        },
+        {
+            "index": 525,
+            "name": "grok-1/ckpt-0/tensor00523_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 525
+        },
+        {
+            "index": 526,
+            "name": "grok-1/ckpt-0/tensor00524_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 526
+        },
+        {
+            "index": 527,
+            "name": "grok-1/ckpt-0/tensor00525_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 527
+        },
+        {
+            "index": 528,
+            "name": "grok-1/ckpt-0/tensor00526_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 528
+        },
+        {
+            "index": 529,
+            "name": "grok-1/ckpt-0/tensor00527_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 529
+        },
+        {
+            "index": 530,
+            "name": "grok-1/ckpt-0/tensor00528_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 530
+        },
+        {
+            "index": 531,
+            "name": "grok-1/ckpt-0/tensor00529_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 531
+        },
+        {
+            "index": 532,
+            "name": "grok-1/ckpt-0/tensor00530_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 532
+        },
+        {
+            "index": 533,
+            "name": "grok-1/ckpt-0/tensor00531_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 533
+        },
+        {
+            "index": 534,
+            "name": "grok-1/ckpt-0/tensor00532_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 534
+        },
+        {
+            "index": 535,
+            "name": "grok-1/ckpt-0/tensor00533_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 535
+        },
+        {
+            "index": 536,
+            "name": "grok-1/ckpt-0/tensor00534_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 536
+        },
+        {
+            "index": 537,
+            "name": "grok-1/ckpt-0/tensor00535_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 537
+        },
+        {
+            "index": 538,
+            "name": "grok-1/ckpt-0/tensor00536_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 538
+        },
+        {
+            "index": 539,
+            "name": "grok-1/ckpt-0/tensor00537_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 539
+        },
+        {
+            "index": 540,
+            "name": "grok-1/ckpt-0/tensor00538_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 540
+        },
+        {
+            "index": 541,
+            "name": "grok-1/ckpt-0/tensor00539_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 541
+        },
+        {
+            "index": 542,
+            "name": "grok-1/ckpt-0/tensor00540_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 542
+        },
+        {
+            "index": 543,
+            "name": "grok-1/ckpt-0/tensor00541_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 543
+        },
+        {
+            "index": 544,
+            "name": "grok-1/ckpt-0/tensor00542_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 544
+        },
+        {
+            "index": 545,
+            "name": "grok-1/ckpt-0/tensor00543_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 545
+        },
+        {
+            "index": 546,
+            "name": "grok-1/ckpt-0/tensor00544_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 546
+        },
+        {
+            "index": 547,
+            "name": "grok-1/ckpt-0/tensor00545_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 547
+        },
+        {
+            "index": 548,
+            "name": "grok-1/ckpt-0/tensor00546_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 548
+        },
+        {
+            "index": 549,
+            "name": "grok-1/ckpt-0/tensor00547_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 549
+        },
+        {
+            "index": 550,
+            "name": "grok-1/ckpt-0/tensor00548_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 550
+        },
+        {
+            "index": 551,
+            "name": "grok-1/ckpt-0/tensor00549_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 551
+        },
+        {
+            "index": 552,
+            "name": "grok-1/ckpt-0/tensor00550_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 552
+        },
+        {
+            "index": 553,
+            "name": "grok-1/ckpt-0/tensor00551_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 553
+        },
+        {
+            "index": 554,
+            "name": "grok-1/ckpt-0/tensor00552_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 554
+        },
+        {
+            "index": 555,
+            "name": "grok-1/ckpt-0/tensor00553_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 555
+        },
+        {
+            "index": 556,
+            "name": "grok-1/ckpt-0/tensor00554_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 556
+        },
+        {
+            "index": 557,
+            "name": "grok-1/ckpt-0/tensor00555_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 557
+        },
+        {
+            "index": 558,
+            "name": "grok-1/ckpt-0/tensor00556_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 558
+        },
+        {
+            "index": 559,
+            "name": "grok-1/ckpt-0/tensor00557_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 559
+        },
+        {
+            "index": 560,
+            "name": "grok-1/ckpt-0/tensor00558_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 560
+        },
+        {
+            "index": 561,
+            "name": "grok-1/ckpt-0/tensor00559_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 561
+        },
+        {
+            "index": 562,
+            "name": "grok-1/ckpt-0/tensor00560_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 562
+        },
+        {
+            "index": 563,
+            "name": "grok-1/ckpt-0/tensor00561_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 563
+        },
+        {
+            "index": 564,
+            "name": "grok-1/ckpt-0/tensor00562_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 564
+        },
+        {
+            "index": 565,
+            "name": "grok-1/ckpt-0/tensor00563_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 565
+        },
+        {
+            "index": 566,
+            "name": "grok-1/ckpt-0/tensor00564_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 566
+        },
+        {
+            "index": 567,
+            "name": "grok-1/ckpt-0/tensor00565_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 567
+        },
+        {
+            "index": 568,
+            "name": "grok-1/ckpt-0/tensor00566_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 568
+        },
+        {
+            "index": 569,
+            "name": "grok-1/ckpt-0/tensor00567_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 569
+        },
+        {
+            "index": 570,
+            "name": "grok-1/ckpt-0/tensor00568_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 570
+        },
+        {
+            "index": 571,
+            "name": "grok-1/ckpt-0/tensor00569_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 571
+        },
+        {
+            "index": 572,
+            "name": "grok-1/ckpt-0/tensor00570_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 572
+        },
+        {
+            "index": 573,
+            "name": "grok-1/ckpt-0/tensor00571_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 573
+        },
+        {
+            "index": 574,
+            "name": "grok-1/ckpt-0/tensor00572_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 574
+        },
+        {
+            "index": 575,
+            "name": "grok-1/ckpt-0/tensor00573_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 575
+        },
+        {
+            "index": 576,
+            "name": "grok-1/ckpt-0/tensor00574_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 576
+        },
+        {
+            "index": 577,
+            "name": "grok-1/ckpt-0/tensor00575_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 577
+        },
+        {
+            "index": 578,
+            "name": "grok-1/ckpt-0/tensor00576_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 578
+        },
+        {
+            "index": 579,
+            "name": "grok-1/ckpt-0/tensor00577_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 579
+        },
+        {
+            "index": 580,
+            "name": "grok-1/ckpt-0/tensor00578_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 580
+        },
+        {
+            "index": 581,
+            "name": "grok-1/ckpt-0/tensor00579_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 581
+        },
+        {
+            "index": 582,
+            "name": "grok-1/ckpt-0/tensor00580_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 582
+        },
+        {
+            "index": 583,
+            "name": "grok-1/ckpt-0/tensor00581_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 583
+        },
+        {
+            "index": 584,
+            "name": "grok-1/ckpt-0/tensor00582_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 584
+        },
+        {
+            "index": 585,
+            "name": "grok-1/ckpt-0/tensor00583_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 585
+        },
+        {
+            "index": 586,
+            "name": "grok-1/ckpt-0/tensor00584_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 586
+        },
+        {
+            "index": 587,
+            "name": "grok-1/ckpt-0/tensor00585_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 587
+        },
+        {
+            "index": 588,
+            "name": "grok-1/ckpt-0/tensor00586_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 588
+        },
+        {
+            "index": 589,
+            "name": "grok-1/ckpt-0/tensor00587_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 589
+        },
+        {
+            "index": 590,
+            "name": "grok-1/ckpt-0/tensor00588_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 590
+        },
+        {
+            "index": 591,
+            "name": "grok-1/ckpt-0/tensor00589_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 591
+        },
+        {
+            "index": 592,
+            "name": "grok-1/ckpt-0/tensor00590_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 592
+        },
+        {
+            "index": 593,
+            "name": "grok-1/ckpt-0/tensor00591_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 593
+        },
+        {
+            "index": 594,
+            "name": "grok-1/ckpt-0/tensor00592_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 594
+        },
+        {
+            "index": 595,
+            "name": "grok-1/ckpt-0/tensor00593_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 595
+        },
+        {
+            "index": 596,
+            "name": "grok-1/ckpt-0/tensor00594_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 596
+        },
+        {
+            "index": 597,
+            "name": "grok-1/ckpt-0/tensor00595_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 597
+        },
+        {
+            "index": 598,
+            "name": "grok-1/ckpt-0/tensor00596_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 598
+        },
+        {
+            "index": 599,
+            "name": "grok-1/ckpt-0/tensor00597_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 599
+        },
+        {
+            "index": 600,
+            "name": "grok-1/ckpt-0/tensor00598_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 600
+        },
+        {
+            "index": 601,
+            "name": "grok-1/ckpt-0/tensor00599_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 601
+        },
+        {
+            "index": 602,
+            "name": "grok-1/ckpt-0/tensor00600_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 602
+        },
+        {
+            "index": 603,
+            "name": "grok-1/ckpt-0/tensor00601_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 603
+        },
+        {
+            "index": 604,
+            "name": "grok-1/ckpt-0/tensor00602_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 604
+        },
+        {
+            "index": 605,
+            "name": "grok-1/ckpt-0/tensor00603_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 605
+        },
+        {
+            "index": 606,
+            "name": "grok-1/ckpt-0/tensor00604_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 606
+        },
+        {
+            "index": 607,
+            "name": "grok-1/ckpt-0/tensor00605_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 607
+        },
+        {
+            "index": 608,
+            "name": "grok-1/ckpt-0/tensor00606_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 608
+        },
+        {
+            "index": 609,
+            "name": "grok-1/ckpt-0/tensor00607_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 609
+        },
+        {
+            "index": 610,
+            "name": "grok-1/ckpt-0/tensor00608_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 610
+        },
+        {
+            "index": 611,
+            "name": "grok-1/ckpt-0/tensor00609_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 611
+        },
+        {
+            "index": 612,
+            "name": "grok-1/ckpt-0/tensor00610_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 612
+        },
+        {
+            "index": 613,
+            "name": "grok-1/ckpt-0/tensor00611_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 613
+        },
+        {
+            "index": 614,
+            "name": "grok-1/ckpt-0/tensor00612_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 614
+        },
+        {
+            "index": 615,
+            "name": "grok-1/ckpt-0/tensor00613_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 615
+        },
+        {
+            "index": 616,
+            "name": "grok-1/ckpt-0/tensor00614_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 616
+        },
+        {
+            "index": 617,
+            "name": "grok-1/ckpt-0/tensor00615_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 617
+        },
+        {
+            "index": 618,
+            "name": "grok-1/ckpt-0/tensor00616_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 618
+        },
+        {
+            "index": 619,
+            "name": "grok-1/ckpt-0/tensor00617_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 619
+        },
+        {
+            "index": 620,
+            "name": "grok-1/ckpt-0/tensor00618_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 620
+        },
+        {
+            "index": 621,
+            "name": "grok-1/ckpt-0/tensor00619_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 621
+        },
+        {
+            "index": 622,
+            "name": "grok-1/ckpt-0/tensor00620_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 622
+        },
+        {
+            "index": 623,
+            "name": "grok-1/ckpt-0/tensor00621_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 623
+        },
+        {
+            "index": 624,
+            "name": "grok-1/ckpt-0/tensor00622_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 624
+        },
+        {
+            "index": 625,
+            "name": "grok-1/ckpt-0/tensor00623_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 625
+        },
+        {
+            "index": 626,
+            "name": "grok-1/ckpt-0/tensor00624_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 626
+        },
+        {
+            "index": 627,
+            "name": "grok-1/ckpt-0/tensor00625_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 627
+        },
+        {
+            "index": 628,
+            "name": "grok-1/ckpt-0/tensor00626_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 628
+        },
+        {
+            "index": 629,
+            "name": "grok-1/ckpt-0/tensor00627_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 629
+        },
+        {
+            "index": 630,
+            "name": "grok-1/ckpt-0/tensor00628_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 630
+        },
+        {
+            "index": 631,
+            "name": "grok-1/ckpt-0/tensor00629_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 631
+        },
+        {
+            "index": 632,
+            "name": "grok-1/ckpt-0/tensor00630_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 632
+        },
+        {
+            "index": 633,
+            "name": "grok-1/ckpt-0/tensor00631_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 633
+        },
+        {
+            "index": 634,
+            "name": "grok-1/ckpt-0/tensor00632_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 634
+        },
+        {
+            "index": 635,
+            "name": "grok-1/ckpt-0/tensor00633_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 635
+        },
+        {
+            "index": 636,
+            "name": "grok-1/ckpt-0/tensor00634_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 636
+        },
+        {
+            "index": 637,
+            "name": "grok-1/ckpt-0/tensor00635_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 637
+        },
+        {
+            "index": 638,
+            "name": "grok-1/ckpt-0/tensor00636_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 638
+        },
+        {
+            "index": 639,
+            "name": "grok-1/ckpt-0/tensor00637_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 639
+        },
+        {
+            "index": 640,
+            "name": "grok-1/ckpt-0/tensor00638_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 640
+        },
+        {
+            "index": 641,
+            "name": "grok-1/ckpt-0/tensor00639_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 641
+        },
+        {
+            "index": 642,
+            "name": "grok-1/ckpt-0/tensor00640_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 642
+        },
+        {
+            "index": 643,
+            "name": "grok-1/ckpt-0/tensor00641_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 643
+        },
+        {
+            "index": 644,
+            "name": "grok-1/ckpt-0/tensor00642_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 644
+        },
+        {
+            "index": 645,
+            "name": "grok-1/ckpt-0/tensor00643_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 645
+        },
+        {
+            "index": 646,
+            "name": "grok-1/ckpt-0/tensor00644_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 646
+        },
+        {
+            "index": 647,
+            "name": "grok-1/ckpt-0/tensor00645_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 647
+        },
+        {
+            "index": 648,
+            "name": "grok-1/ckpt-0/tensor00646_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 648
+        },
+        {
+            "index": 649,
+            "name": "grok-1/ckpt-0/tensor00647_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 649
+        },
+        {
+            "index": 650,
+            "name": "grok-1/ckpt-0/tensor00648_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 650
+        },
+        {
+            "index": 651,
+            "name": "grok-1/ckpt-0/tensor00649_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 651
+        },
+        {
+            "index": 652,
+            "name": "grok-1/ckpt-0/tensor00650_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 652
+        },
+        {
+            "index": 653,
+            "name": "grok-1/ckpt-0/tensor00651_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 653
+        },
+        {
+            "index": 654,
+            "name": "grok-1/ckpt-0/tensor00652_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 654
+        },
+        {
+            "index": 655,
+            "name": "grok-1/ckpt-0/tensor00653_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 655
+        },
+        {
+            "index": 656,
+            "name": "grok-1/ckpt-0/tensor00654_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 656
+        },
+        {
+            "index": 657,
+            "name": "grok-1/ckpt-0/tensor00655_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 657
+        },
+        {
+            "index": 658,
+            "name": "grok-1/ckpt-0/tensor00656_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 658
+        },
+        {
+            "index": 659,
+            "name": "grok-1/ckpt-0/tensor00657_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 659
+        },
+        {
+            "index": 660,
+            "name": "grok-1/ckpt-0/tensor00658_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 660
+        },
+        {
+            "index": 661,
+            "name": "grok-1/ckpt-0/tensor00659_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 661
+        },
+        {
+            "index": 662,
+            "name": "grok-1/ckpt-0/tensor00660_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 662
+        },
+        {
+            "index": 663,
+            "name": "grok-1/ckpt-0/tensor00661_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 663
+        },
+        {
+            "index": 664,
+            "name": "grok-1/ckpt-0/tensor00662_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 664
+        },
+        {
+            "index": 665,
+            "name": "grok-1/ckpt-0/tensor00663_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 665
+        },
+        {
+            "index": 666,
+            "name": "grok-1/ckpt-0/tensor00664_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 666
+        },
+        {
+            "index": 667,
+            "name": "grok-1/ckpt-0/tensor00665_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 667
+        },
+        {
+            "index": 668,
+            "name": "grok-1/ckpt-0/tensor00666_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 668
+        },
+        {
+            "index": 669,
+            "name": "grok-1/ckpt-0/tensor00667_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 669
+        },
+        {
+            "index": 670,
+            "name": "grok-1/ckpt-0/tensor00668_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 670
+        },
+        {
+            "index": 671,
+            "name": "grok-1/ckpt-0/tensor00669_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 671
+        },
+        {
+            "index": 672,
+            "name": "grok-1/ckpt-0/tensor00670_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 672
+        },
+        {
+            "index": 673,
+            "name": "grok-1/ckpt-0/tensor00671_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 673
+        },
+        {
+            "index": 674,
+            "name": "grok-1/ckpt-0/tensor00672_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 674
+        },
+        {
+            "index": 675,
+            "name": "grok-1/ckpt-0/tensor00673_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 675
+        },
+        {
+            "index": 676,
+            "name": "grok-1/ckpt-0/tensor00674_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 676
+        },
+        {
+            "index": 677,
+            "name": "grok-1/ckpt-0/tensor00675_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 677
+        },
+        {
+            "index": 678,
+            "name": "grok-1/ckpt-0/tensor00676_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 678
+        },
+        {
+            "index": 679,
+            "name": "grok-1/ckpt-0/tensor00677_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 679
+        },
+        {
+            "index": 680,
+            "name": "grok-1/ckpt-0/tensor00678_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 680
+        },
+        {
+            "index": 681,
+            "name": "grok-1/ckpt-0/tensor00679_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 681
+        },
+        {
+            "index": 682,
+            "name": "grok-1/ckpt-0/tensor00680_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 682
+        },
+        {
+            "index": 683,
+            "name": "grok-1/ckpt-0/tensor00681_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 683
+        },
+        {
+            "index": 684,
+            "name": "grok-1/ckpt-0/tensor00682_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 684
+        },
+        {
+            "index": 685,
+            "name": "grok-1/ckpt-0/tensor00683_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 685
+        },
+        {
+            "index": 686,
+            "name": "grok-1/ckpt-0/tensor00684_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 686
+        },
+        {
+            "index": 687,
+            "name": "grok-1/ckpt-0/tensor00685_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 687
+        },
+        {
+            "index": 688,
+            "name": "grok-1/ckpt-0/tensor00686_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 688
+        },
+        {
+            "index": 689,
+            "name": "grok-1/ckpt-0/tensor00687_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 689
+        },
+        {
+            "index": 690,
+            "name": "grok-1/ckpt-0/tensor00688_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 690
+        },
+        {
+            "index": 691,
+            "name": "grok-1/ckpt-0/tensor00689_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 691
+        },
+        {
+            "index": 692,
+            "name": "grok-1/ckpt-0/tensor00690_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 692
+        },
+        {
+            "index": 693,
+            "name": "grok-1/ckpt-0/tensor00691_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 693
+        },
+        {
+            "index": 694,
+            "name": "grok-1/ckpt-0/tensor00692_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 694
+        },
+        {
+            "index": 695,
+            "name": "grok-1/ckpt-0/tensor00693_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 695
+        },
+        {
+            "index": 696,
+            "name": "grok-1/ckpt-0/tensor00694_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 696
+        },
+        {
+            "index": 697,
+            "name": "grok-1/ckpt-0/tensor00695_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 697
+        },
+        {
+            "index": 698,
+            "name": "grok-1/ckpt-0/tensor00696_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 698
+        },
+        {
+            "index": 699,
+            "name": "grok-1/ckpt-0/tensor00697_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 699
+        },
+        {
+            "index": 700,
+            "name": "grok-1/ckpt-0/tensor00698_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 700
+        },
+        {
+            "index": 701,
+            "name": "grok-1/ckpt-0/tensor00699_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 701
+        },
+        {
+            "index": 702,
+            "name": "grok-1/ckpt-0/tensor00700_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 702
+        },
+        {
+            "index": 703,
+            "name": "grok-1/ckpt-0/tensor00701_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 703
+        },
+        {
+            "index": 704,
+            "name": "grok-1/ckpt-0/tensor00702_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 704
+        },
+        {
+            "index": 705,
+            "name": "grok-1/ckpt-0/tensor00703_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 705
+        },
+        {
+            "index": 706,
+            "name": "grok-1/ckpt-0/tensor00704_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 706
+        },
+        {
+            "index": 707,
+            "name": "grok-1/ckpt-0/tensor00705_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 707
+        },
+        {
+            "index": 708,
+            "name": "grok-1/ckpt-0/tensor00706_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 708
+        },
+        {
+            "index": 709,
+            "name": "grok-1/ckpt-0/tensor00707_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 709
+        },
+        {
+            "index": 710,
+            "name": "grok-1/ckpt-0/tensor00708_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 710
+        },
+        {
+            "index": 711,
+            "name": "grok-1/ckpt-0/tensor00709_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 711
+        },
+        {
+            "index": 712,
+            "name": "grok-1/ckpt-0/tensor00710_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 712
+        },
+        {
+            "index": 713,
+            "name": "grok-1/ckpt-0/tensor00711_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 713
+        },
+        {
+            "index": 714,
+            "name": "grok-1/ckpt-0/tensor00712_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 714
+        },
+        {
+            "index": 715,
+            "name": "grok-1/ckpt-0/tensor00713_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 715
+        },
+        {
+            "index": 716,
+            "name": "grok-1/ckpt-0/tensor00714_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 716
+        },
+        {
+            "index": 717,
+            "name": "grok-1/ckpt-0/tensor00715_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 717
+        },
+        {
+            "index": 718,
+            "name": "grok-1/ckpt-0/tensor00716_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 718
+        },
+        {
+            "index": 719,
+            "name": "grok-1/ckpt-0/tensor00717_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 719
+        },
+        {
+            "index": 720,
+            "name": "grok-1/ckpt-0/tensor00718_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 720
+        },
+        {
+            "index": 721,
+            "name": "grok-1/ckpt-0/tensor00719_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 721
+        },
+        {
+            "index": 722,
+            "name": "grok-1/ckpt-0/tensor00720_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 722
+        },
+        {
+            "index": 723,
+            "name": "grok-1/ckpt-0/tensor00721_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 723
+        },
+        {
+            "index": 724,
+            "name": "grok-1/ckpt-0/tensor00722_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 724
+        },
+        {
+            "index": 725,
+            "name": "grok-1/ckpt-0/tensor00723_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 725
+        },
+        {
+            "index": 726,
+            "name": "grok-1/ckpt-0/tensor00724_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 726
+        },
+        {
+            "index": 727,
+            "name": "grok-1/ckpt-0/tensor00725_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 727
+        },
+        {
+            "index": 728,
+            "name": "grok-1/ckpt-0/tensor00726_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 728
+        },
+        {
+            "index": 729,
+            "name": "grok-1/ckpt-0/tensor00727_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 729
+        },
+        {
+            "index": 730,
+            "name": "grok-1/ckpt-0/tensor00728_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 730
+        },
+        {
+            "index": 731,
+            "name": "grok-1/ckpt-0/tensor00729_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 731
+        },
+        {
+            "index": 732,
+            "name": "grok-1/ckpt-0/tensor00730_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 732
+        },
+        {
+            "index": 733,
+            "name": "grok-1/ckpt-0/tensor00731_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 733
+        },
+        {
+            "index": 734,
+            "name": "grok-1/ckpt-0/tensor00732_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 734
+        },
+        {
+            "index": 735,
+            "name": "grok-1/ckpt-0/tensor00733_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 735
+        },
+        {
+            "index": 736,
+            "name": "grok-1/ckpt-0/tensor00734_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 736
+        },
+        {
+            "index": 737,
+            "name": "grok-1/ckpt-0/tensor00735_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 737
+        },
+        {
+            "index": 738,
+            "name": "grok-1/ckpt-0/tensor00736_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 738
+        },
+        {
+            "index": 739,
+            "name": "grok-1/ckpt-0/tensor00737_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 739
+        },
+        {
+            "index": 740,
+            "name": "grok-1/ckpt-0/tensor00738_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 740
+        },
+        {
+            "index": 741,
+            "name": "grok-1/ckpt-0/tensor00739_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 741
+        },
+        {
+            "index": 742,
+            "name": "grok-1/ckpt-0/tensor00740_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 742
+        },
+        {
+            "index": 743,
+            "name": "grok-1/ckpt-0/tensor00741_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 743
+        },
+        {
+            "index": 744,
+            "name": "grok-1/ckpt-0/tensor00742_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 744
+        },
+        {
+            "index": 745,
+            "name": "grok-1/ckpt-0/tensor00743_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 745
+        },
+        {
+            "index": 746,
+            "name": "grok-1/ckpt-0/tensor00744_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 746
+        },
+        {
+            "index": 747,
+            "name": "grok-1/ckpt-0/tensor00745_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 747
+        },
+        {
+            "index": 748,
+            "name": "grok-1/ckpt-0/tensor00746_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 748
+        },
+        {
+            "index": 749,
+            "name": "grok-1/ckpt-0/tensor00747_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 749
+        },
+        {
+            "index": 750,
+            "name": "grok-1/ckpt-0/tensor00748_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 750
+        },
+        {
+            "index": 751,
+            "name": "grok-1/ckpt-0/tensor00749_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 751
+        },
+        {
+            "index": 752,
+            "name": "grok-1/ckpt-0/tensor00750_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 752
+        },
+        {
+            "index": 753,
+            "name": "grok-1/ckpt-0/tensor00751_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 753
+        },
+        {
+            "index": 754,
+            "name": "grok-1/ckpt-0/tensor00752_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 754
+        },
+        {
+            "index": 755,
+            "name": "grok-1/ckpt-0/tensor00753_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 755
+        },
+        {
+            "index": 756,
+            "name": "grok-1/ckpt-0/tensor00754_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 756
+        },
+        {
+            "index": 757,
+            "name": "grok-1/ckpt-0/tensor00755_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 757
+        },
+        {
+            "index": 758,
+            "name": "grok-1/ckpt-0/tensor00756_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 758
+        },
+        {
+            "index": 759,
+            "name": "grok-1/ckpt-0/tensor00757_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 759
+        },
+        {
+            "index": 760,
+            "name": "grok-1/ckpt-0/tensor00758_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 760
+        },
+        {
+            "index": 761,
+            "name": "grok-1/ckpt-0/tensor00759_000",
+            "priority": 1,
+            "size": 1611399491,
+            "id": 761
+        },
+        {
+            "index": 762,
+            "name": "grok-1/ckpt-0/tensor00760_000",
+            "priority": 1,
+            "size": 1611137347,
+            "id": 762
+        },
+        {
+            "index": 763,
+            "name": "grok-1/ckpt-0/tensor00761_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 763
+        },
+        {
+            "index": 764,
+            "name": "grok-1/ckpt-0/tensor00762_000",
+            "priority": 1,
+            "size": 37847359,
+            "id": 764
+        },
+        {
+            "index": 765,
+            "name": "grok-1/ckpt-0/tensor00763_000",
+            "priority": 1,
+            "size": 37761334,
+            "id": 765
+        },
+        {
+            "index": 766,
+            "name": "grok-1/ckpt-0/tensor00764_000",
+            "priority": 1,
+            "size": 6293814,
+            "id": 766
+        },
+        {
+            "index": 767,
+            "name": "grok-1/ckpt-0/tensor00765_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 767
+        },
+        {
+            "index": 768,
+            "name": "grok-1/ckpt-0/tensor00766_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 768
+        },
+        {
+            "index": 769,
+            "name": "grok-1/ckpt-0/tensor00767_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 769
+        },
+        {
+            "index": 770,
+            "name": "grok-1/ckpt-0/tensor00768_000",
+            "priority": 1,
+            "size": 24727,
+            "id": 770
+        },
+        {
+            "index": 771,
+            "name": "grok-1/ckpt-0/tensor00769_000",
+            "priority": 1,
+            "size": 196770,
+            "id": 771
+        },
+        {
+            "index": 772,
+            "name": "grok-1/md5sum.txt",
+            "priority": 1,
+            "size": 40040,
+            "id": 772
+        }
+    ]
+}

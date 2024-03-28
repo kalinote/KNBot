@@ -1,0 +1,56 @@
+
+# 机器人相关
+qq: "3802703625"
+token: "qmtQ6meKC@fy.Bavr..cMjpBeFcQNaEd"
+bot_name: KNBot
+
+# bot服务器
+bot_host: localhost
+bot_ws_port: 3001
+bot_http_port: 3000
+
+# 机器人指令优先级
+admin_order_level: 100
+normal_order_level: 50
+chat_level: 1
+
+# 机器人管理员(管理员QQ号)
+admin:
+  - ""
+
+# LLM对话系统指令
+system_order:
+  普通对话: ""
+  翻译助手: ""
+  网页分析助手: |
+    你是一个网页内容分析助手, 你需要根据我发送的网页内容的消息来分析和概括内容, 需要概括得尽量详细。
+    **无论原网站的语言是什么, 你都需要使用中文回答**
+    如果在处理非中文的网页内容时遇到一些专业名词, 需要在名词的后面**加括号备注**原网页中专业名词的原文
+    在提供的内容中, 可能有一部分内容或一些词语与正文无关, 可以直接忽略
+    与正文有关的任何内容需要你进行**详细的解释**
+    以下是网页内容:
+
+# 发送者ID
+sender_ids:
+  system: 0
+  user: 1
+  assistant: 2
+  developer: 3
+
+# 图片下载文件夹
+image_dir: images
+
+# 临时文件文件夹
+tmp_dir: temp_files
+
+# 代理设置
+proxy_ip: "127.0.0.1"
+proxy_port: 7890
+
+# ollama API链接
+ollama_base_url: "http://host:port"
+
+# bilibili账号认证token
+bili_sessdata: ""
+bili_bili_jct: ""
+bili_buvid3: ""
