@@ -1,14 +1,18 @@
 import asyncio
 
+
 from amiyabot import Chain
 from amiyabot import Message
 from playwright.async_api import async_playwright
+from langchain_community.document_loaders.web_base import WebBaseLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.chains.summarize import load_summarize_chain
+from langchain_community.llms.ollama import Ollama
 
 from utils.argument_parser import ArgumentParser
 from bot import bot
-from configs import proxy_ip, proxy_port, system_order
+from configs import proxy_ip, proxy_port, ollama_base_url
 from commands.command_meta import BaseMeta
-from llm.ollama import ollama_client
 
 def get_middle_chars(s, n):
     middle = len(s) // 2
@@ -31,6 +35,7 @@ async def search_website(data: Message):
 
     # 添加选项和参数
     parser.add_argument('-k', '--keyword', type=str, default="kalinote.top", help="需要搜索的关键词，默认为\"kalinote.top\"")
+    parser.add_argument('-n', '--number', type=int, default=3, help="总结搜索结果的条数(比如指定为3则总结搜索结果的前3个页面内容)")
 
     # 解析命令
     try:
@@ -40,6 +45,7 @@ async def search_website(data: Message):
         return Chain(data).text(info.__str__())
 
     keyword = args.keyword
+    number = args.number
     url = f"https://www.google.com/search?q={keyword}"
 
     await bot.send_message(Chain().text("[实验功能]正在请求搜索内容, 请稍等..."), channel_id=data.channel_id)
@@ -68,6 +74,7 @@ async def search_website(data: Message):
             screenshot_bytes = await page.screenshot(full_page=True)
             return Chain(data).image(screenshot_bytes)
         
+        links = []
         for h3_element in h3_elements:
             parent_element = await h3_element.query_selector("xpath=..")
             if not parent_element:
@@ -75,40 +82,29 @@ async def search_website(data: Message):
             href = await parent_element.get_attribute('href')
             if href is not None:
                 # 找到具有href属性的父元素
-                await page.goto(href)
+                links.append(href)
+            
+            if len(links) >= number:
                 break
 
-        screenshot_bytes = await page.screenshot(full_page=True)
-        await bot.send_message(Chain().image(screenshot_bytes), channel_id=data.channel_id)
+        await bot.send_message(Chain().text(f"links: \n{str(links)}"), channel_id=data.channel_id)
 
-        elements = await page.query_selector_all("h1, h2, h3, h4, h5, h6, p")
-        texts = [await element.inner_text() for element in elements]
-        full_content = " ".join(texts)
+        # screenshot_bytes = await page.screenshot(full_page=True)
+        # await bot.send_message(Chain().image(screenshot_bytes), channel_id=data.channel_id)
 
-        # await bot.send_message(Chain().text(f"原文如下：\n{full_content}"), channel_id=data.channel_id)
+    loader = WebBaseLoader(links)
+    docs = loader.load()
 
-    content_list = split_string(full_content, 3800)
-    count = 0
-    for content in content_list:
-        count += 1
-        results = ollama_client.generate(model='qwen:7b', prompt=f"下面这些文本是从某个网页中提取到的，其中包含了很多杂乱的无用的信息，你需要帮我提取出**所有**有用的信息，不要进行总结，只需要提取出原文，然后进行尽可能详细地解释说明：\n\n{content}",
-            options={
-                "num_ctx": 4096
-            },
-            stream=True
-        )
+    # await bot.send_message(Chain().text(f"原文如下：\n{str(docs)}"), channel_id=data.channel_id)
+    
+    text_splitter=RecursiveCharacterTextSplitter(chunk_size=2000, chunk_overlap=20)
+    all_splits = text_splitter.split_documents(docs)
 
-        sentence:str = ""
-        for chunk in results:
-            sentence += chunk["response"]
-            print(chunk["response"], end="", flush=True)
-            if sentence.endswith("\n\n"):
-                await bot.send_message(Chain().text(sentence.rstrip("\n")), channel_id=data.channel_id)
-                sentence:str = ""
-                await asyncio.sleep(2)
+    ollama = Ollama(base_url=ollama_base_url, model="qwen:14b")
+    chain = load_summarize_chain(ollama, chain_type="map_reduce")
+    en_result = chain.run(all_splits)
 
-        if sentence:
-            await bot.send_message(Chain().text(sentence.rstrip("\n")), channel_id=data.channel_id)
+    await bot.send_message(Chain().text(en_result), channel_id=data.channel_id)
 
     return
 

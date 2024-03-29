@@ -6,7 +6,7 @@ from amiyabot import Message, Chain
 from bot import bot, ChromeBrowserLauncher
 from configs import proxy_ip, proxy_port
 from commands.command_parser import do_command
-from commands import megnet_link, bili_video_summarize
+from commands import megnet_link, bili_video_summarize, image_analyze
 
 # 匹配磁力链
 async def megnet_link_verify(data: Message):
@@ -22,6 +22,13 @@ async def bv_verify(data: Message):
 @bot.on_message(verify=bv_verify)
 async def _(data: Message):
     return await bili_video_summarize(data)
+
+# 匹配图片
+async def image_verify(data: Message):
+    return bool(len(data.image) > 0)
+@bot.on_message(verify=image_verify)
+async def _(data: Message):
+    return await image_analyze(data)
 
 # 匹配#开头的指令
 async def command_verify(data: Message):
